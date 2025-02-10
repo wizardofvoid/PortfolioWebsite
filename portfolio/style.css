@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Radley' ;
+    /* background-color: #a8a8a8; */
+    /* background-color: #000001; */
+}
+
+.container{
+    height: 95vh;
+    background-color: #000001;
+}
+
+.text{
+    text-align: center;
+    padding-top: 40vh;
+}
+
+#Hello{
+    font-size: 5.5rem;
+    font-style: italic;
+    color: white;
+
+}
+#name{
+    font-size: 5rem;
+    color: red;
+
+}
+
+
+.aboutsection{
+    height: 70vh;
+}
+.aboutme{
+    height: 100%;
+    margin-right: 60%;
+    position: absolute;
+    padding-left: 10%;
+}
+.image{
+    padding-top: 10vh;
+    height: 100%;
+    margin-left: 60%;
+}
+#about{
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 15vh;
+}
+#fname{
+    font-style: italic;
+    font-weight: bold;
+}
+.abouttext{
+    text-align: left;
+    height: 50%;
+    padding-top: 10vh;
+}
+#image{
+    height: 50vh;
+    width: 50vh;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.background{
+    background-color: #000001;
+    height: 70vh;
+    padding-top: 5%;
+}
+
+.school{
+    height: 100%;
+    margin-right: 50%;
+    position: absolute;
+    text-align: center;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+.college{
+    height: 100%;
+    margin-left: 50%;
+
+    position: absolute;
+    text-align: center;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+#btext{
+    font-size: 3.5rem;
+    text-align: center;
+    color: white;
+}
+#symbol1{
+    border-radius: 100%;
+}
+#schoolname{
+    color: red;
+    font-size: 1.5rem;
+    padding-top: 5%;   
+}
+#symbolimg{
+    border-radius: 100%;
+}
+#collegename{
+    color: red;
+    font-size: 1.5rem;
+    padding-top: 5%;
+}
+
+.end{
+    height: 70vh;
+    padding-top: 5%;
+    padding-left: 10%;
+    background-color: black;
+}
+#text{
+    color: white;
+    font-size: 3rem;
+}
+.line{
+    background-color: white;
+    width: 40%;
+    height: 4px;
+    margin-top: 1.5%;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+#facebook{
+    border-radius: 100%;
+    height: 40px;
+}
+#insta{
+    border-radius: 100%;
+    height: 40px;
+}
+#twitter{
+    border-radius: 100%;
+    height: 40px;
+}
+.email{
+    margin-left: 60%;
+    padding-top: 5%;
+}
+#email{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.skills{
+    height: 70vh;
+    text-align: center;
+    padding-top: 3%;
+}
+
+#skilltext{
+    font-size: 4rem;
+    text-align: center;
+}
+#skillname{
+    font-size: 4rem;
+    font-weight: bold;
+    font-style: italic;
+}
+.skilllist{
+    padding-top: 1%;
+    /* text-align:left; */
+    margin-left: 40%;
+    text-align: left;
+    font-size: large;
+
+}
+.list{
+    list-style: none;
+}
